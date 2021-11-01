@@ -1,0 +1,10 @@
+<testsuites>
+	<testsuite name="AllTests" tests="6">
+		<testcase classname="AllTests" name="testSingleDigitResult"/>
+		<testcase classname="AllTests" name="testMultipleDigitResult"/>
+		<testcase classname="AllTests" name="testMinusResult"/>
+		<testcase classname="AllTests" name="testDivisionByZero"/>
+		<testcase classname="AllTests" name="testWrongInput"/>
+		<testcase classname="AllTests" name="testNumberWiderThan8Digits"/>
+	</testsuite>
+</testsuites>
